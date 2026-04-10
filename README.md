@@ -39,6 +39,4 @@ and support secure remote administration.
 
  Note on Security
 All credentials and internal IP addresses have been redacted 
-from the portfolio version of this report. This reflects 
-real-world best practices around credential management and 
-responsible disclosure.
+from the portfolio version of this report. 
