@@ -1,7 +1,7 @@
 # Pima Datacenter Firewall Project
 Capstone project: designing and deploying a secure virtual network using a Physical Palo Alto Next-Generation Firewall in Pima Community Center's Datacenter
 
-Overview
+Overview:
 A capstone project designing and deploying a secure virtual 
 network using a Palo Alto Next-Generation Firewall (NGFW). 
 The goal was to simulate a small company environment with a 
